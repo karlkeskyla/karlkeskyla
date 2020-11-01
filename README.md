@@ -1,8 +1,8 @@
-### Karl Kesküla
+## Karl Kesküla
 
 Cloud-native systems development on AWS
 
-## Expertise
+### Keywords:
 
 - Serverless/AWS
 - functional, event-driven
@@ -10,12 +10,11 @@ Cloud-native systems development on AWS
 - NoSQL/SQL
 - Linux/Docker
 
-### Connect with me:
+### Contact:
 
 [<img align="left" alt="keskyla.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="karlkeskyla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 <br />
 
 [website]: https://keskyla.eu/
