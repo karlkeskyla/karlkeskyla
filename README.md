@@ -6,7 +6,7 @@ Cloud-native enterprise systems on AWS
 
 - TypeScript/JavaScript on Node.js for professional work, Rust for personal
 - Certified ScrumMaster
-- Knowledge sharing and presentation
+- Knowledge sharing and presentations
 - AWS
 - Functional, event-driven, stream-processing
 - NoSQL/SQL
