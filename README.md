@@ -1,14 +1,16 @@
 ## Karl Kesküla
 
-Cloud-native systems development on AWS
+Cloud-native enterprise systems on AWS
 
-### Keywords:
+### Expertise:
 
-- Serverless/AWS
-- functional, event-driven
-- TypeScript/JavaScript on Node.js
+- TypeScript/JavaScript on Node.js for professional work, Rust for personal
+- Certified ScrumMaster
+- Knowledge sharing and presentation
+- AWS
+- Functional, event-driven, stream-processing
 - NoSQL/SQL
-- Linux/Docker
+- Linux/Docker/etc.
 
 ### Contact:
 
