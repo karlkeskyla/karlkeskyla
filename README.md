@@ -4,10 +4,10 @@ Cloud-native enterprise systems on AWS
 
 ### Expertise:
 
-- TypeScript/JavaScript on Node.js for professional work, Rust for personal
+- TypeScript/JavaScript on Node.js
+- Microservices, DevOps for cloud
 - Certified ScrumMaster
 - Knowledge sharing and presentations
-- AWS
 - Functional, event-driven, stream-processing
 - NoSQL/SQL
 - Linux/Docker/etc.
