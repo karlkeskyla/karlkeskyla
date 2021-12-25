@@ -1,6 +1,6 @@
 ## Karl Kesküla
 
-Cloud-native enterprise systems on AWS
+Cloud-native enterprise systems on AWS.
 
 ### Expertise:
 
