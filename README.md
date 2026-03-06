@@ -1,7 +1,5 @@
-Cloud-native enterprise systems on AWS.
+Platform engineer building cloud-native infrastructure on AWS with HashiCorp tools.
 
-### Expertise:
-
-- **Cloud Development**: 5 years of large-scale AWS experience, including serverless architecture, lambdas, event-driven design, queues, Docker, and DevOps.
-- **Communication Skills**: Strong abilities in internal DevRel, public speaking, interviewing, mentoring, and knowledge sharing.
-- **Programming Experience**: With over 10 years of experience, I specialize in TypeScript/JavaScript on Node.js (functional, test-driven) for backend development.
+- **Infrastructure & Platform Engineering:** AWS, HashiCorp ecosystem (Terraform & Vault certified), IaC, secrets management, CI/CD, DevOps
+- **Technical Evaluation & Enablement:** Vendor and tooling evaluation, internal DevRel, hands-on PoCs, technical advocacy, mentoring
+- **Engineering Background:** 10+ years in software engineering, strongest in TypeScript/Node.js, now focused on platform engineering and cloud architecture
