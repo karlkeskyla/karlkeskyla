@@ -1,5 +1,5 @@
-Platform engineer building cloud-native infrastructure on AWS with HashiCorp tools.
+Senior cloud engineer. AWS cloud infrastructure. HashiCorp certified (Terraform & Vault).
 
-- **Infrastructure & Platform Engineering:** AWS, HashiCorp ecosystem (Terraform & Vault certified), IaC, secrets management, CI/CD, DevOps
-- **Technical Evaluation & Enablement:** Vendor and tooling evaluation, internal DevRel, hands-on PoCs, technical advocacy, mentoring
-- **Engineering Background:** 10+ years in software engineering, strongest in TypeScript/Node.js, now focused on platform engineering and cloud architecture
+- **Infrastructure & Cloud Engineering:** AWS, HashiCorp ecosystem (Terraform & Vault certified), IaC, secrets management, CI/CD, DevOps
+- **Technical Evaluation & Enablement:** Vendor and tooling evaluation, hands-on PoCs, technical advocacy, mentoring
+- **Engineering Background:** 10+ years in software engineering, strongest in TypeScript/Node.js, now focused on cloud infrastructure and IaC
